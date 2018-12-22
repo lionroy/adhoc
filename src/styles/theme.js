@@ -3,7 +3,7 @@ const theme = {
     base: '#707fbf', // Toolbox
     secondary: '#8cabdb', // Light Cobalt Blue
     tertiary: '#9dc3c2', // Cambridge Blue
-    highlight: '#bde580', // Medium Spring Bud
+    highlight: '#c6f4f3', // Diamond exMedium Spring Bud
     danger: '#dd816c' // Pale Copper
   },
   sizes: {
