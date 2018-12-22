@@ -63,7 +63,7 @@ const Footer = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          gatsby-starter-gcn
+          AdHoc Consulting
         </a>{' '}
         by{' '}
         <a
