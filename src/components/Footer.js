@@ -59,7 +59,7 @@ const Footer = () => (
       </Item>
       <Item>
         <a
-          href="https://github.com/ryanwiemer/gatsby-starter-gcn"
+          href="https://github.com/lionroy/adhoc"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -67,11 +67,11 @@ const Footer = () => (
         </a>{' '}
         by{' '}
         <a
-          href="https://github.com/ryanwiemer"
+          href="https://github.com/lionroy"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @ryanwiemer
+          @lionroy
         </a>
       </Item>
     </List>
